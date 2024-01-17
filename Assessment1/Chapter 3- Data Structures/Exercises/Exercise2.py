@@ -11,5 +11,5 @@ print (msg) #prints the variable 'msg' with the second name.
 msg= "Hello," ' ' + names[2].title() + ' ' "how are you?" #'msg' variable is assigned to the statement and the 'name' variable is from the list.
 print (msg) #prints the variable 'msg' with the third name.
 
-msg= "Hello," ' ' + names[3].title() + ' ' "how are you?" #'msg'variable is assigned to the statement and the 'name' variable is from the list.
+msg= "Hello," ' ' + names[3].title() + ' ' "how are you?" #'msg' variable is assigned to the statement and the 'name' variable is from the list.
 print (msg) #prints the variable 'msg' with the fourth name.
