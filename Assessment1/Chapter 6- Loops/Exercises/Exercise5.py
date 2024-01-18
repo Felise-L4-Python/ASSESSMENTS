@@ -1,4 +1,4 @@
-sandwich_orders = ['Pastrami', 'BLT', 'Egg', 'Pastrami', 'Bacon', 'Pastrami', 'Grilled Chicken'] #variable "sandwich_orders" turns into a list that has 4 different orders.
+sandwich_orders = ['Pastrami', 'BLT', 'Egg', 'Pastrami', 'Bacon', 'Pastrami', 'Grilled Chicken'] #The variable turns into a list that has 4 different orders.
 finished_sandwiches = [] #variable "finished_sandwiches" turns into an empty list
 
 print("It looks like we have run out of Pastrami today, my apologies") #This prints the statement.
